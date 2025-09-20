@@ -1,6 +1,6 @@
 <?php
 
-define('URL','http://localhost/vendemasconlinkedin/');
+define('URL','https://vendemasconlinkedin.com.pe/');
 define('AUTHOR','Software Yanami');
 
 /*Celular*/
